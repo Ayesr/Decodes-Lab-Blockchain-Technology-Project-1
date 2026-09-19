@@ -1,0 +1,12 @@
+# This project has NO external dependencies.
+#
+# It relies entirely on Python's standard library:
+#   - hashlib  (for SHA-256 cryptographic hashing)
+#   - time     (for block timestamps)
+#
+# Both of these ship with any standard Python 3 installation, so nothing
+# needs to be installed via pip. This file is included only to make the
+# project structure explicit and to follow common Python project
+# conventions.
+#
+# Requirement: Python 3.7 or later.
